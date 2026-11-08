@@ -28,7 +28,7 @@ O projeto foi construído utilizando as tecnologias fundamentais da web sem fram
 * **CSS3:** Estilização avançada, uso de flexbox, variáveis, gradientes e media queries para responsividade.
 * **JavaScript (Vanilla):** Lógica interativa para o botão flutuante e scroll suave.
 * **Font Awesome:** Ícones vetoriais modernos.
-
+Link do Projeto: https://nathaliamarques103.github.io/Pet-Shop---Landing-Page/
 ---
 
 ## 📂 Estrutura de Ficheiros
